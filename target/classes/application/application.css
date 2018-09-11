@@ -1,0 +1,123 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+
+
+
+.aaa
+{
+
+-fx-min-height: 60px;
+
+    -fx-min-width: 90px;
+
+    -fx-background-image: url("../on.png");
+
+    -fx-background-size: 50px 50px;
+
+    -fx-background-repeat: no-repeat;
+
+    -fx-background-position: center 7px;
+}
+
+#savef
+{
+
+-fx-min-height: 60px;
+
+    -fx-min-width: 90px;
+
+	
+    -fx-background-image: url("../newuser.png");
+
+    -fx-background-size: 50px 50px;
+
+    -fx-background-repeat: no-repeat;
+
+    -fx-background-position: center 7px;
+}
+
+.recog
+{
+
+-fx-min-height: 60px;
+
+    -fx-min-width: 90px;
+
+	
+    -fx-background-image: url("../facerecog.jpg");
+
+    -fx-background-size: 90px 60px;
+
+    -fx-background-repeat: no-repeat;
+
+    -fx-background-position: center center;
+}
+
+
+
+
+.stop2
+{
+
+-fx-min-height: 60px;
+
+    -fx-min-width: 90px;
+
+	
+    -fx-background-image: url("../pause.png");
+
+    -fx-background-size: 50px 50px;
+
+    -fx-background-repeat: no-repeat;
+
+    -fx-background-position: center 7px;
+}
+
+.stop1
+{
+
+-fx-min-height: 60px;
+
+    -fx-min-width: 90px;
+
+	
+    -fx-background-image: url("../stop.png");
+
+    -fx-background-size: 50px 50px;
+
+    -fx-background-repeat: no-repeat;
+
+    -fx-background-position: center 7px;
+}
+
+
+.capture
+{
+
+-fx-min-height: 45px;
+
+    -fx-min-width: 90px;
+
+	
+    -fx-background-image: url("../camera.png");
+
+    -fx-background-size: 40px 30px;
+
+    -fx-background-repeat: no-repeat;
+
+    -fx-background-position: center 7px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
